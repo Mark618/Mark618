@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mark618
-- 👀 I’m interested in data analytic and how to apply machine learning technique to solve business problem
 - 📫 How to reach me : email me on yeanmark@gmail.com
 
 <!---
